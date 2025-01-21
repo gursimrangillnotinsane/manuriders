@@ -23,7 +23,6 @@ const Hero = () => {
                 <div className="flex flex-col items-center justify-center space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0">
                   <Link
                     href="https://wa.me/4379862492?text=I\'m%20here%20to%20book%20a%20ride.%0A%0APickup%20Address:%20[Your%20Pickup%20Address]%0ADropoff%20Address:%20[Your%20Dropoff%20Address]%0ADeadline%20to%20Reach:%20[Your%20Deadline%20Time]"
-                    target="_blank"
                     className="rounded-sm bg-primary px-8 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:bg-primary/80"
                   >
                     Book Now

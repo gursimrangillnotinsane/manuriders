@@ -103,7 +103,6 @@ const Footer = () => {
                   <li>
                     <a
                       href="https://wa.me/4379862492?text=I'm%20here%20to%20book%20a%20ride.%0A%0APickup%20Address:%20[Your%20Pickup%20Address]%0ADropoff%20Address:%20[Your%20Dropoff%20Address]%0ADeadline%20to%20Reach:%20[Your%20Deadline%20Time]"
-                      target="_blank"
                       className="dark:text-body-color-dark mb-4 inline-block text-base text-body-color duration-300 hover:text-primary dark:hover:text-primary"
                     >
                       Book Now
